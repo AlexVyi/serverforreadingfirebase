@@ -1,0 +1,21 @@
+{
+  "name": "serverforreadingfirebase",
+  "version": "1.0.0",
+  "description": "server for reading firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "qw"
+  },
+  "keywords": [
+    "qw"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.10",
+    "firebase-admin": "^5.0.1",
+    "net": "^1.0.2",
+    "restify": "^5.0.1",
+    "restify-plugins": "^1.6.0"
+  }
+}
