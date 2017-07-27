@@ -1,3 +1,6 @@
+//all that was needed in order to receive mails from firebase is BELLOW
+
+
 var server = require('./server');
 
 var port = Number(process.env.SERVER_PORT) || 7000;
